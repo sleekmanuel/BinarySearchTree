@@ -1,8 +1,6 @@
 /*
-* Emmanuel Onwuka
+* Data Structures
 * September, 29 2016
-* CS 201
-* Programming Project 1
 *
 * This File contains the methods to create the binarySearch Tree for the dictionary, 
 * Method for inserting new Terms, method for removing an already Existing Term, Method for
