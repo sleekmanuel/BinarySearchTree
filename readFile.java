@@ -1,8 +1,5 @@
 /*
-* Emmanuel Onwuka
-* September, 29 2016
-* CS 201
-* Programming Project 1
+* 
 *
 * This class is created to read  a file into the Tree.
 *  and write the data in the tree into a text file
